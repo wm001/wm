@@ -5,7 +5,7 @@
   <tr>
 <td align=left>本页短网址：https://git.io/vQogU<br/>
 本页面如遇打不开，请复制上面网址到谷歌浏览器<br/>
-苹果用户直接复制到苹果自带浏览器打开<br/>
+苹果用户直接复制到苹果自带Safari浏览器打开<br/>
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版、</a>
